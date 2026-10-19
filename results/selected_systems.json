@@ -1,0 +1,11 @@
+{
+  "systems": [
+    "system13",
+    "system28",
+    "system30",
+    "system33",
+    "system46",
+    "system64"
+  ],
+  "criteria": "failing_unit_cycles >= 300 and n_tests >= 20 and spearman_cycle_time >= 0.9; all eligible systems are used; unit cycles have at least 20 tests"
+}
